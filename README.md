@@ -50,8 +50,8 @@ You need to install Node.js and then the development tools. Node.js comes with a
 Either clone this repository or fork it on GitHub and clone your fork:
 
 ```
-git clone https://github.com/angular-app/angular-app.git
-cd angular-app
+git clone https://github.com/AKSHITVERMA123/Angular-App.git
+cd Angular-App
 ```
 
 ### App Server
